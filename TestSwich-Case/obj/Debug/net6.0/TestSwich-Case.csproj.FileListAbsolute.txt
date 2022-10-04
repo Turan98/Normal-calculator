@@ -1,0 +1,15 @@
+D:\CSharp\Console\TestSwich-Case\bin\Debug\net6.0\TestSwich-Case.exe
+D:\CSharp\Console\TestSwich-Case\bin\Debug\net6.0\TestSwich-Case.deps.json
+D:\CSharp\Console\TestSwich-Case\bin\Debug\net6.0\TestSwich-Case.runtimeconfig.json
+D:\CSharp\Console\TestSwich-Case\bin\Debug\net6.0\TestSwich-Case.dll
+D:\CSharp\Console\TestSwich-Case\bin\Debug\net6.0\TestSwich-Case.pdb
+D:\CSharp\Console\TestSwich-Case\obj\Debug\net6.0\TestSwich-Case.csproj.AssemblyReference.cache
+D:\CSharp\Console\TestSwich-Case\obj\Debug\net6.0\TestSwich-Case.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Console\TestSwich-Case\obj\Debug\net6.0\TestSwich-Case.AssemblyInfoInputs.cache
+D:\CSharp\Console\TestSwich-Case\obj\Debug\net6.0\TestSwich-Case.AssemblyInfo.cs
+D:\CSharp\Console\TestSwich-Case\obj\Debug\net6.0\TestSwich-Case.csproj.CoreCompileInputs.cache
+D:\CSharp\Console\TestSwich-Case\obj\Debug\net6.0\TestSwich-Case.dll
+D:\CSharp\Console\TestSwich-Case\obj\Debug\net6.0\refint\TestSwich-Case.dll
+D:\CSharp\Console\TestSwich-Case\obj\Debug\net6.0\TestSwich-Case.pdb
+D:\CSharp\Console\TestSwich-Case\obj\Debug\net6.0\TestSwich-Case.genruntimeconfig.cache
+D:\CSharp\Console\TestSwich-Case\obj\Debug\net6.0\ref\TestSwich-Case.dll
